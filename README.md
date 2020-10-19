@@ -1,5 +1,5 @@
-# machine_learning
-This is my work in machine learning. This repository includes my experience in machine learning and projects I worked on.
+# artificial_intelligence
+This is my work in artificial intelligence. This repository includes my experience in artificial intelligence and projects I worked on.
 You'll find python scrypts I wrote during online courses,
 you can also you find projects I worked on alone or during courses.
 
