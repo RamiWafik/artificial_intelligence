@@ -6,10 +6,9 @@ import numpy as np
 import seaborn as sn
 import matplotlib.pyplot as plt
 
-dataset = pd.read_csv('new_appdata10.csv')
+dataset = pd.read_csv('new_appdata.csv')
 y = dataset["enrolled"]
 X = dataset.drop(columns="enrolled")
-X['hour'] = X.hour.str.slice(1, 3).astype(int)
 X.dtypes
 
 # Splittong the data to training and test sets
