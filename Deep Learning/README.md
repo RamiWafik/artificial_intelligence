@@ -1,4 +1,4 @@
-## **List of projects in this file:**
+## **List of projects in this file**
 
 **1- Case Study With ANN and SOM:**
 
