@@ -1,4 +1,4 @@
-## **List of projects in this file**
+## **List of projects in this folder**
 
 **1- 50 Startups**
 
