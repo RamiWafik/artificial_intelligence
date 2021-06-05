@@ -2,7 +2,7 @@
 
 This is my work in artificial intelligence. This repo includes my experience in machine learning and Deep learning in the form of projects I worked on.
 
-## **Deep Learning Folder:**
+## **Deep Learning:**
 
 Includes all my projects in deep learning and the datasets I used to train the neaural networks, SOM, Boltzmann machines and, Autoencoders. The aim of these projects was to start implementing DL neural networks and see how they work.
 
@@ -27,3 +27,7 @@ These are the 4 use cases that I submitted during the 4 months of training. In t
 ## **Standford University Machine Learning COurse:**
 
 I uploaded all the programming exercises I passed during there course. They are ML algorithms implemented from scratch where I wrote the code for training and tuning parameters, loss functions, and prediction. All this was done using MATLAB.
+
+## **Deep Learning Specialization:**
+
+This folder has the programming assignments I did during the deep learning specialization on Coursera in all the five courses included in the specialization.
