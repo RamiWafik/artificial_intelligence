@@ -16,7 +16,7 @@ This folder has examples of how to use Principal Component Analysis (PCA) and Li
 
 ## **Templates:**
 
-These templates are pieces of code that are reayd to be used in the exploratory data analysis phase.
+These templates are pieces of code that are ready to be used in the exploratory data analysis phase.
 
 
 ## **MCIT AWS Machine Learning Training:**
@@ -24,7 +24,7 @@ These templates are pieces of code that are reayd to be used in the exploratory 
 These are the 4 use cases that I submitted during the 4 months of training. In them, I got hands on experience implementing ML algorithms using SageMaker and got familiar with different AWS tools.
 
 
-## **Standford University Machine Learning COurse:**
+## **Standford University Machine Learning Course:**
 
 I uploaded all the programming exercises I passed during there course. They are ML algorithms implemented from scratch where I wrote the code for training and tuning parameters, loss functions, and prediction. All this was done using MATLAB.
 

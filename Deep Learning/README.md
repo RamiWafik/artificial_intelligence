@@ -1,6 +1,8 @@
 # **List of projects in this folder**
 
-## **1- Case Study With ANN and SOM**
+## **1- Case Study With ANN and SOM With Credit Card Applications**
+
+This case study had two parts, one with SOM (Self Organizing Maps) to predict which applicants are fraud and which are not, the second part we use ANN to predict the probability that the applicant cheated. This model is a hybrid model containing both supervised (ANN) and unsupervised (SOM) learning.
 
 ## **2- Cat/Dog Classifier**
 
@@ -27,3 +29,5 @@ Using the famous mnist fashion dataset, a convolutional meural network is traine
 Using recurrent neural network, a model was build to predict the google stock prices based on the dataset of the stock prices for the previous set of years.
 
 ## **8- Movie Recommender System**
+
+I tried to build a movie recommendation system for users based on previous ratings for those movies. I tried using AutoEncoders and Boltzmann Machine for this task.
